@@ -1,0 +1,30 @@
+{
+  "name": "all-match",
+  "description": "Check if a querystring's words each match at least one field.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/all-match.git"
+  },
+  "homepage": "https://github.com/juliangruber/all-match",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "keywords": [
+    "match",
+    "query",
+    "string",
+    "search"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
