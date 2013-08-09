@@ -3,6 +3,10 @@
 
 Check if a querystring's words each match at least one field.
 
+[![testling badge](https://ci.testling.com/juliangruber/all-match.png)](https://ci.testling.com/juliangruber/all-match)
+
+[![build status](https://secure.travis-ci.org/juliangruber/all-match.png)](http://travis-ci.org/juliangruber/all-match)
+
 ## Example
 
 ```js
